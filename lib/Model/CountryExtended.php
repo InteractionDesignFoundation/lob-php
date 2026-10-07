@@ -118,6 +118,8 @@ enum CountryExtended: string
 
     case CD = 'CD';
 
+    case CF = 'CF';
+
     case CG = 'CG';
 
     case CH = 'CH';
